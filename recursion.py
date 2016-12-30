@@ -1,5 +1,5 @@
 """
-"""Solve a maze using recursive backtracking
+""" Solve a maze using recursive backtracking
 """
 
 string = """\
